@@ -151,3 +151,8 @@ html {
     column-count: 2;
   }
 }
+.bottom {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
